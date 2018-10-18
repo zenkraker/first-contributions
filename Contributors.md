@@ -8212,4 +8212,8 @@ Orandi Harris
 - [Jonathan Goleń](https://github.com/HrTran12)
 - [Angie](https://github.com/AngieAngelica
 - [Xander Grzywinski](https://github.com/salaxander)
+<<<<<<< HEAD
 - [Zenkraken](https://github.com/zenkraker)
+=======
+- [Krakenzen](https://github.com/zenkraker)
+>>>>>>> master
